@@ -9,7 +9,7 @@ Most people primarily use game engines like:
 - Unreal Engine : A heavy but beautiful game engine, there's actually a template made by nullptr but I can't find it anymore [Windows]
 - Blender Game Engine : I pretty much haven't tried this, but seeing Kaje, I think it's possible [Windows, Linux]
 
-Some developers actually had made some standalone level editor ready to use (You can just Google these)
+Some developers actually had made some standalone level editor ready to use
 - Dancing Editor (Private)
 - Arphros (Stable - Public [Android & Windows])
 - Line Worlds (Unstable - Public [Windows])
