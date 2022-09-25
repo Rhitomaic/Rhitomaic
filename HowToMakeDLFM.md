@@ -1,7 +1,8 @@
 # How to make Dancing Line Levels
 ## Introduction
-You might see people making really incredible levels and so you asked - "how to do that?"
-Well I'll show you some list of it and some explanations on it!
+You might see people making really incredible levels and so you asked - "how to do that?".
+
+Well here, I will only show you the programs they used and the links of it. You can pretty much look for tutorials of them in YouTube
 
 ## Programs
 Most people primarily use game engines like:
