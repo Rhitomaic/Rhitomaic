@@ -31,13 +31,13 @@ Here are some links related to it
 
 Game Engines:
 - Unity :
--> Engine : https://unity3d.com/get-unity/download/archive
--> Template : https://github.com/ReDarkTechnology/ReDarkTechnology/blob/main/DancingLineTemplates.md
+  - Engine : https://unity3d.com/get-unity/download/archive
+  - Template : https://github.com/ReDarkTechnology/ReDarkTechnology/blob/main/DancingLineTemplates.md
 - Unreal :
--> Engine : https://www.unrealengine.com/en-US/download
--> Template (nullptr version) : https://drive.google.com/file/d/19qbPKieC2bzf4vATCS1H1Y7masZkm64H/view?usp=drivesdk
+  - Engine : https://www.unrealengine.com/en-US/download
+  - Template (nullptr version) : https://drive.google.com/file/d/19qbPKieC2bzf4vATCS1H1Y7masZkm64H/view?usp=drivesdk
 - Blender Game Engine
--> Engine : https://www.blender.org/download/
--> Template : No template
+  - Engine : https://www.blender.org/download/
+  - Template : No template
 
 Gaming Platforms: I haven't found any projects that is open to be downloaded in this category
