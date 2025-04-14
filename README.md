@@ -31,7 +31,7 @@
  - [Rhitomaic](https://rhitomaic.vercel.app/)
  - [Bunzhida](https://bunzhida.vercel.app/)
  - [Arphros](https://arphros.kjn.in.th/)
- - [REDACTED](...)
+ - [REDACTED]
 
  Here are the links to my games:
  - [Arphros](https://arphros.kjn.in.th/)
