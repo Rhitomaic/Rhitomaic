@@ -3,8 +3,8 @@
  
  My name is Rhitomaic and I'm a hobbyist programmer, specializing in Game Development using Unity and Visual Studio and making servers for the game backend API using common JavaScript frameworks.
 
-## Programming Languages
-#### Scripting Languages
+## Skillsets
+### Scripting Languages
 - C#
 - JavaScript
 - TypeScript
