@@ -38,7 +38,7 @@
  - [Rhine](https://gamejolt.com/games/rhine/801760)
  
  Advertisement corner:
- - [Buy me a coffee!](https://ko-fi.com/bunzhizendi)
+ - [Buy me a coffee!](https://ko-fi.com/rhitomaic)
  - [Subscribe to my channel](https://www.youtube.com/@rhitomaic)
 
 ## Statistics
