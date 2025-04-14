@@ -3,7 +3,6 @@
  My name is Rhitomaic and I'm a hobbyist programmer, specializing in C# using Unity and Visual Studio.
 
 ## Programming Languages
----
 #### Scripting Languages
 - Lua
 - Python
@@ -31,7 +30,6 @@
   - Backend: express.js
 
 ## Projects
----
  Here are links to websites I've developed:
  - [Rhitomaic](https://rhitomaic.vercel.app/)
  - [Bunzhida](https://bunzhida.vercel.app/)
