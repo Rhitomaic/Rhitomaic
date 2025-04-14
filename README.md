@@ -20,11 +20,12 @@
 - Visual Studio Code
 
 ### Frameworks and Libraries
+- **App Development**: Windows Forms, WPF, Avalonia, Eto.Forms, .NET MAUI
 - **Game Development**: Raylib, SDL2, OpenTK, LoveFramework
 - **Computer Vision**: OpenCV
 - **Web Development**:
   - Frontend: Svelte, React
-  - Backend: express.js, SvelteKit
+  - Backend: SvelteKit, React Routes, express.js
 
 ## Projects
  Here are links to websites I've developed:
