@@ -36,7 +36,6 @@
  Here are the links to my games:
  - [Arphros](https://arphros.kjn.in.th/)
  - [Rhine](https://gamejolt.com/games/rhine/801760)
- - [Cube for Life](https://redark-technology.itch.io/cubeforlife)
  
  Advertisement corner:
  - [Buy me a coffee!](https://ko-fi.com/bunzhizendi)
