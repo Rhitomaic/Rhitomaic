@@ -45,3 +45,7 @@
  Advertisement corner:
  - [Buy me a coffee!](https://ko-fi.com/bunzhizendi)
  - [Subscribe to my channel](https://www.youtube.com/@rhitomaic)
+
+## Statistics
+![rhitomaic-stats](https://github-readme-stats.vercel.app/api?username=AbhishekMaira10&show_icons=true&theme=gotham)
+
