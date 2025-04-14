@@ -20,11 +20,11 @@
 - Visual Studio Code
 
 ### Frameworks and Libraries
-- **Game Development**: Raylib
+- **Game Development**: Raylib, SDL2, OpenTK, LoveFramework
 - **Computer Vision**: OpenCV
 - **Web Development**:
-  - Frontend: Svelte
-  - Backend: express.js
+  - Frontend: Svelte, React
+  - Backend: express.js, SvelteKit
 
 ## Projects
  Here are links to websites I've developed:
