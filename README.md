@@ -1,7 +1,7 @@
-# Rhitomaic (formerly ReDark Technology) - Indonesia
+# Rhitomaic (formerly ReDark Technology)
  Hello there! 👋
  
- My name is Rhitomaic and I'm a hobbyist programmer, specializing in Game Development using Unity and Visual Studio and making servers for the game backend API using common JavaScript frameworks.
+ My name is Rhitomaic and I'm an Indonesian 🇮🇩 hobbyist programmer, specializing in Game Development using Unity and Visual Studio and making servers for the game backend API using common JavaScript frameworks.
 
 ## Skillsets
 ### Scripting Languages
