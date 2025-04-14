@@ -5,18 +5,14 @@
 
 ## Programming Languages
 #### Scripting Languages
-- Lua
-- Python
+- C#
 - JavaScript
 - TypeScript
-
-#### Compiled Languages
-- C#
-- C++
-  
-#### Markup and Styling
 - HTML
 - CSS
+- C++
+- Lua
+- Python
 
 ### Development Tools
 - Unity
