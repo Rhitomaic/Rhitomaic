@@ -1,6 +1,7 @@
-# Rhitomaic (formerly ReDark Technology) - A person that just code things as a hobby
- Hello there! 👋 
- My name is Rhitomaic and I'm a hobbyist programmer, specializing in C# using Unity and Visual Studio.
+# Rhitomaic (formerly ReDark Technology) - Indonesia
+ Hello there! 👋
+ 
+ My name is Rhitomaic and I'm a hobbyist programmer, specializing in Game Development using Unity and Visual Studio and making servers for the game backend API using common JavaScript frameworks.
 
 ## Programming Languages
 #### Scripting Languages
