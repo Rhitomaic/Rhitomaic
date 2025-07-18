@@ -16,8 +16,11 @@
 
 ### Development Tools
 - Unity
+- Godot
+- Love2D
 - Visual Studio
 - Visual Studio Code
+- JetBrains WebStorm
 
 ### Frameworks and Libraries
 - **App Development**: Windows Forms, WPF, Avalonia, Eto.Forms, .NET MAUI
