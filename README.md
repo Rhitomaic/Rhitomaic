@@ -42,5 +42,5 @@
  - [Subscribe to my channel](https://www.youtube.com/@rhitomaic)
 
 ## Statistics
-![rhitomaic-stats](https://github-readme-stats.vercel.app/api?username=ReDarkTechnology&show_icons=true&theme=gotham)
+![rhitomaic-stats](https://github-readme-stats.vercel.app/api?username=Rhitomaic&show_icons=true&theme=gotham)
 
