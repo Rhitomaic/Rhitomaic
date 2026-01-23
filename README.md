@@ -6,7 +6,6 @@
 ## Skillsets
 ### Scripting Languages
 - C#
-- JavaScript
 - TypeScript
 - HTML
 - CSS
@@ -24,8 +23,8 @@
 - **App Development**: Windows Forms, WPF, Avalonia, Eto.Forms, .NET MAUI
 - **Game Development**: Raylib, SDL2
 - **Web Development**:
-  - Frontend: Svelte, React
-  - Backend: SvelteKit, React Routes, express.js
+  - Frontend: React
+  - Backend: Nestjs, Next.js, express.js
 
 ## Projects
  Here are links to websites I've developed:
