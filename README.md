@@ -17,23 +17,20 @@
 ### Development Tools
 - Unity
 - Godot
-- Love2D
 - Visual Studio
 - Visual Studio Code
-- JetBrains WebStorm
 
 ### Frameworks and Libraries
 - **App Development**: Windows Forms, WPF, Avalonia, Eto.Forms, .NET MAUI
-- **Game Development**: Raylib, SDL2, OpenTK, LoveFramework
-- **Computer Vision**: OpenCV
+- **Game Development**: Raylib, SDL2
 - **Web Development**:
   - Frontend: Svelte, React
   - Backend: SvelteKit, React Routes, express.js
 
 ## Projects
  Here are links to websites I've developed:
- - [Rhitomaic](https://rhitomaic.vercel.app/)
- - [Bunzhida](https://bunzhida.vercel.app/)
+ - [Rhitomaic](https://rhitomaic.com/)
+ - [Bunzhida](https://bunzhida.xyz/)
  - [Arphros](https://arphros.kjn.in.th/)
 
  Here are the links to my games:
