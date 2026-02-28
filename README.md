@@ -29,7 +29,6 @@
 ## Projects
  Here are links to websites I've developed:
  - [Rhitomaic](https://rhitomaic.com/)
- - [Bunzhida](https://bunzhida.xyz/)
  - [Arphros](https://arphros.kjn.in.th/)
 
  Here are the links to my games:
@@ -37,6 +36,7 @@
  - [Rhine](https://gamejolt.com/games/rhine/801760)
  
  Advertisement corner:
+ - [Support me on patreon!](https://patreon.com/rhitomaic)
  - [Buy me a coffee!](https://ko-fi.com/rhitomaic)
  - [Subscribe to my channel](https://www.youtube.com/@rhitomaic)
 
