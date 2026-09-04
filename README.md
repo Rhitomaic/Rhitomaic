@@ -3,6 +3,8 @@
  
  My name is Rhitomaic and I'm an Indonesian 🇮🇩 hobbyist programmer, specializing in mostly Game Development using Unity and Visual Studio and making servers for the game backend API using common JavaScript frameworks.
 
+ Joined GitHub since July 24, 2019
+
 ## Skillsets
 ### Scripting Languages
 - C#
