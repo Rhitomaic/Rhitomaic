@@ -23,7 +23,7 @@
 
 ### Frameworks and Libraries
 - **App Development**: Windows Forms, WPF, Avalonia, Eto.Forms, .NET MAUI
-- **Game Development**: Raylib, SDL2
+- **Game Development**: Raylib, SDL2/SDL3
 - **Web Development**:
   - Frontend: React
   - Backend: Nestjs, Next.js, express.js
